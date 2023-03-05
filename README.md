@@ -1,0 +1,3 @@
+> Comparación de Resultados 1.1
+
+Al comparar los datos del modelo creado con la librería y los datos del modelo creado sin la librería, se puede observar que el modelo que utilizó una libreria es un poco más exacto. Esto se hace evidente al comparar las calificaciones de exactitud, que son de 0.93 y 0.91 para el modelo que utiliza y no utiliza una librería respectivamente. Adicionalmente, al comparar las matrices de confusión, se puede observar que el modelo que utiliza una librería presenta menos falsos negativos al igual que menos falsos positivos. Estas dos métricas de desempeño permiten afirmar que el modelo creado con una librería fue una mejor implementación.
