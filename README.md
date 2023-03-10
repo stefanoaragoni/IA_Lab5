@@ -18,7 +18,9 @@ Adicionalmente, al comparar las matrices de confusión, se puede ver tanto el mo
 Por otro lado, es importante mencionar que el modelo creado con la librería es capaz de hacer el respectivo modelo de manera más rápida. Esto siendo importante en casos cuando se está manejando grandes cantidades de información y se requiere de un algoritmo optimizado.
 
 > ¿Cómo difirieron los grupos creados por ambos modelos?
-@LUIS
+Para el modelo KNN, los grupos creados por el algoritmo que utiliza librerias y el algoritmo que no utiliza librerias conincidieron en su gran mayoría. El 93% de las predicciones realizadas por estos modelos conincidieron entre si. 
+
+Para el modelo SVM, los grupos creados por los dos algoritmos coincidieron en su totalidad. Esto significa que ambos modelos deberían realizar las mismas predicciones al proporsionarles la misma información de entrada.
 
 
 >  ¿Cuál de los modelos fue más rápido?
